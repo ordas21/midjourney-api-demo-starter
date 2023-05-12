@@ -7,12 +7,13 @@ import { getFirestore } from 'firebase/firestore';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
-  projectId: '',
-  storageBucket: '',
-  messagingSenderId: '',
-  appId: '',
+  apiKey: "AIzaSyDxQwtTBvwc98loi5LlBBDIL34iiSOL10E",
+  authDomain: "lex-c62a6.firebaseapp.com",
+  projectId: "lex-c62a6",
+  storageBucket: "lex-c62a6.appspot.com",
+  messagingSenderId: "821876437446",
+  appId: "1:821876437446:web:e4916d55c3f682a365c2c7",
+  measurementId: "G-5BK9HSMSEY"
 };
 
 // Initialize Firebase
